@@ -63,6 +63,6 @@ Disallow: /cart/
 Disallow: /profile/feedback/
 Disallow: /profile/mail-change/
 
-Sitemap: https://www.dns-shop.ru/sitemap.xml
-Redirect 301 /blog/https://www.site.com/news/
-Host: dns-shop.ru
+Sitemap: https://prositedeveloper.github.io/site/sitemap.xml
+Redirect 301 https://prositedeveloper.github.io/site/
+Host: prositedeveloper.github.io/site/
